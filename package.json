@@ -1,6 +1,6 @@
 {
   "name": "chat-engine-react-native",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Reusable react native components for quickly creating a mobile app with chat functionality using Chat Engine.",
   "main": "index.js",
   "scripts": {
