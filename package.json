@@ -1,0 +1,26 @@
+{
+  "name": "chat-engine-react-native",
+  "version": "0.0.1",
+  "description": "Reusable react native components for quickly creating a mobile app with chat functionaliy using Chat Engine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndrabins/chat-engine-react-native.git"
+  },
+  "author": "Noah Drabinsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndrabins/chat-engine-react-native/issues"
+  },
+  "homepage": "https://github.com/ndrabins/chat-engine-react-native#readme"
+}
+
+/*
+   "chat-engine": "^0.4.2",
+    "react": "^16.0.0-alpha.12",
+    "react-native-elements": "^0.17.0",
+    "react-native-htmlview": "^0.12.0",
+*/
