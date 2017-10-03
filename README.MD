@@ -21,8 +21,8 @@ import {MessageList} from "chat-engine-react-native";
 
 
 const ChatEngine = ChatEngineCore.create({
-  publishKey: "pub-c-0fb6e2c9-c3fa-4dbc-9c8d-86a3813c73c8",
-  subscribeKey: "sub-c-e3f6d3fe-934e-11e7-a7b2-42d877d8495e"
+  publishKey: "<Insert PubNub publish key here>",
+  subscribeKey: "<Insert PubNub subscribe key here>"
 });
 
 const now = new Date().getTime();
